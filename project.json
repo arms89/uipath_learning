@@ -40,5 +40,7 @@
     "modernBehavior": false
   },
   "expressionLanguage": "VisualBasic",
-  "isTemplate": false
+  "isTemplate": false,
+  "templateProjectData": {},
+  "publishData": {}
 }
